@@ -1,3 +1,4 @@
+# Scratch Program to get starting in Python3
 n=int(input("Enter the no. for elements to be inserted "))
 a=[]
 for i in  range(0,n):
